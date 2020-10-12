@@ -1,0 +1,13 @@
+Jorge
+51
+Casado
+Arturo
+38
+Soltero
+Alejandra
+19
+Casada
+Alicia
+33
+Soltera
+
